@@ -1,0 +1,12 @@
+D:\uni\Основы инженерии\Echo\Echo\bin\Debug\Echo.exe.config
+D:\uni\Основы инженерии\Echo\Echo\bin\Debug\Echo.exe
+D:\uni\Основы инженерии\Echo\Echo\bin\Debug\Echo.pdb
+D:\uni\Основы инженерии\Echo\Echo\obj\Debug\Echo.csprojAssemblyReference.cache
+D:\uni\Основы инженерии\Echo\Echo\obj\Debug\Echo.Form1.resources
+D:\uni\Основы инженерии\Echo\Echo\obj\Debug\Echo.Properties.Resources.resources
+D:\uni\Основы инженерии\Echo\Echo\obj\Debug\Echo.csproj.GenerateResource.cache
+D:\uni\Основы инженерии\Echo\Echo\obj\Debug\Echo.csproj.CoreCompileInputs.cache
+D:\uni\Основы инженерии\Echo\Echo\obj\Debug\Echo.exe
+D:\uni\Основы инженерии\Echo\Echo\obj\Debug\Echo.pdb
+D:\uni\Основы инженерии\Echo\Echo\bin\Debug\SimpleTCP.dll
+D:\uni\Основы инженерии\Echo\Echo\obj\Debug\Echo.csproj.CopyComplete
